@@ -15,5 +15,6 @@ João Manoel &lt;joaomanoel7@gmail.com&gt;
 ## Projetos no github:
 ### * **locafan:** https://github.com/jmanoel7/locafan
 ### * **clonetux:** https://github.com/jmanoel7/clonetux
-### * **my_vim_files:** https://github.com/jmanoel7/my_vim_files
+### * **my_dot_files:** https://github.com/jmanoel7/my_dot_files
+### * **my_shell_scripts:** https://github.com/jmanoel7/my_shell_scripts
 
