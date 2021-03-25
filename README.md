@@ -5,7 +5,7 @@ João Manoel &lt;joaomanoel7@gmail.com&gt;
 
 
 ## Técnico em Informática
-### http://www.cepss.com.br/ (2014/2)
+### https://www.ead.go.gov.br/ (2014/2)
 
 
 ## Bacharel em Sistemas de Informação
